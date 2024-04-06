@@ -1,0 +1,4 @@
+x=int(input('Enter the purchase amount :'))
+if(x>=1000):x=x-200
+print(x)
+
